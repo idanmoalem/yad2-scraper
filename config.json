@@ -1,6 +1,6 @@
 {
-  "telegramApiToken": API_TOKEN,
-  "chatId": CHAT_ID,
+  "telegramApiToken": "8250060263:AAEf6iXnkndIAm57RujBIAFpDVrVc8-MikQ",
+  "chatId": "568200281",
   "projects": [
     {
       "topic": "new car",
