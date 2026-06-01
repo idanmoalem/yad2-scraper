@@ -3,8 +3,8 @@
   "chatId": CHAT_ID,
   "projects": [
     {
-      "topic": "",
-      "url": ""
+      "topic": "new car",
+      "url": "https://www.yad2.co.il/vehicles/cars?manufacturer=21&model=10259,10281,13276&km=-1-160000&topArea=2,41,19&info=1.6&priceOnly=1&imgOnly=1&ownerID=1"
     }
   ]
 }
